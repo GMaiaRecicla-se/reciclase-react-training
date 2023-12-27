@@ -50,8 +50,8 @@ export function SignUp() {
     <Container>
       <Background/>
       <Form>
-        <h1>Rocket Notes</h1>
-        <p>Aplicaçãp para salvar e gerenciar seus links úteis</p>
+        <h1>Recicla-se</h1>
+        <p>Solução para descarte de resíduos sólidos recicláveis aliando Inovação e Sustentabilidade!</p>
 
         <h2>Crie sua conta</h2>
 
